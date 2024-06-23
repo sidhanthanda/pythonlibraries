@@ -1,0 +1,17 @@
+{
+    "units": [
+        {
+            "name":"soldier",
+            "role":"frontline"
+        },
+        {
+            "name":"ranger",
+            "role":"scouting"
+        },
+        {
+            "name":"sniper",
+            "role":"anti-heavy"
+        }
+
+    ]
+}

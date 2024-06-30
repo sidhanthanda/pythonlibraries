@@ -13,6 +13,7 @@ def open_file_by_name(file_name):
         json_doc = json.load(json_file)
         return json_doc
   
+#looking at this 1  
 def get_student_name_by_index(index, json_doc):
     students= json_doc["students"]
     student_1 = students[index]
@@ -44,7 +45,7 @@ doc= open_file_by_name(file_name)
 name = get_student_name_by_index(0, doc)
     
 weight = take_weight_from_thing(0, doc)
-w3ight = take_weiight_from_thing(1, doc)
+w3ight = take_weiight_from_thing
 
 pp.pp(name)
 pp.pp(weight)

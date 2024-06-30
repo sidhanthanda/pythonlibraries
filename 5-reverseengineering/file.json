@@ -1,0 +1,20 @@
+{
+    "students":
+     [
+        {
+            "id": 1,
+            "name": "Tim",
+            "age": 21,
+            "full-time": true,
+            "weight": 35
+        },
+        {
+           "id": 2,
+           "name": "Joe",
+           "age": 33,
+           "full-time": false,
+           "weight": 26
+        }
+    ]
+}
+
